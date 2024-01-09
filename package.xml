@@ -3542,6 +3542,7 @@
         <name>OmniInteractionConfig</name>
     </types>
     <types>
+        <members>Development_EditScreen_English_1</members>
         <members>Reusable_Sample_English_1</members>
         <members>sample_editAccount_English_1</members>
         <members>sample_editCase_English_1</members>
