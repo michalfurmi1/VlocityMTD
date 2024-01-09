@@ -3483,6 +3483,7 @@
         <name>NotificationTypeConfig</name>
     </types>
     <types>
+        <members>AccountTrigger_1</members>
         <members>reusableCompanyMailingAddress_1</members>
         <members>sampleChangePriContactTA_1</members>
         <members>sampleChangePriContact_1</members>
