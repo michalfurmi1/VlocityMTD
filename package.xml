@@ -772,6 +772,7 @@
         <members>Contact.LeadSource</members>
         <members>Contact.Level__c</members>
         <members>Contact.MailingAddress</members>
+        <members>Contact.MichalCheckbox__c</members>
         <members>Contact.MobilePhone</members>
         <members>Contact.Name</members>
         <members>Contact.OtherAddress</members>
@@ -3484,6 +3485,7 @@
     </types>
     <types>
         <members>AccountTrigger_1</members>
+        <members>AutoRabitDataRaptor_1</members>
         <members>reusableCompanyMailingAddress_1</members>
         <members>sampleChangePriContactTA_1</members>
         <members>sampleChangePriContact_1</members>
